@@ -21,6 +21,7 @@
   "dependencies": {
     "express-session": "1.10.3",
     "debug": "2.1.2",
+    "mysql": "^2.5.2",
     "mysql-connection-manager": "0.0.9"
   },
   "devDependencies": {
